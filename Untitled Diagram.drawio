@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T17:25:26.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="JhkPYG0QreED7YZuJc8K" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T20:31:17.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="kjHaRLX37MdPD1Cvh0Tb" version="15.0.3" type="github">
   <diagram id="vhvqllevuge-OY_BeRzw" name="Page-1">
     <mxGraphModel dx="1345" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,17 +81,27 @@
         <mxCell id="ZoqWz-siZJQdX3Q4jxba-25" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Inferior a 100 ?&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="700" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZoqWz-siZJQdX3Q4jxba-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZoqWz-siZJQdX3Q4jxba-29" target="ZoqWz-siZJQdX3Q4jxba-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZoqWz-siZJQdX3Q4jxba-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZoqWz-siZJQdX3Q4jxba-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZoqWz-siZJQdX3Q4jxba-29" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;limite de participantes excedido.&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="715" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZoqWz-siZJQdX3Q4jxba-32" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Fim&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="695" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZoqWz-siZJQdX3Q4jxba-36" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Usuário Cadastrado&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="510" y="560" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoqWz-siZJQdX3Q4jxba-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZoqWz-siZJQdX3Q4jxba-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoqWz-siZJQdX3Q4jxba-39" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Vagas esgotadas&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="610" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
